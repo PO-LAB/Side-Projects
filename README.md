@@ -41,7 +41,7 @@ A list of neat projects shared by POLab members
 --- | --- | --- | --- | ---
 -| [@datasciencejeff](https://github.com/datasciencejeff) | - | 半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)  | [:triangular_flag_on_post:](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
 -| [@new393988911](https://github.com/new393988911) | - | 缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)  | [:triangular_flag_on_post:](http://rpubs.com/james_datacatcher/svm)
--
+
 
 
 
