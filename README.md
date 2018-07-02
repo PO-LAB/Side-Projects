@@ -7,77 +7,70 @@ A list of neat projects shared by POLab members
 - [Scheduling](#scheduling)
 - [Data-Envelopment-Analysis](#data-envelopment-analysis)
 - [R-for-Data-Science](#r-for-data-science)
-- [Data-Science-in-Manufacturing](#data-science-in-manufacturing)
 - [Metaheuristic-Algorithms](#metaheuristic-algorithms)
 - [Other](#other)
 
 
 ## Operation-Research
-:star: | Owner | Side Projects| Description | Website
+Owner | Side Projects| Language |Description | Website
 --- | --- | --- | --- | ---
-[![💫][Gurobi-Python-shield]][Gurobi-Python]|[@wurmen](https://github.com/wurmen) | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) |Learning how to use gurobi with python (in chinese)| -
+[wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | Python | Learning how to use gurobi with python (in chinese)| -
 -|-|-|-|-
 
 ## Scheduling
-:star: | Owner | Side Projects| Description | Website
+Owner | Side Projects| Language |Description | Website
 --- | --- | --- | --- | ---
-[![💫][Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II-shield]][Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II]|[@wurmen](https://github.com/wurmen) | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) |Learning how to implement GA and NSGA-II for job shop scheduling problem in python| -
+[wurmen] | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) | Python |Learning how to implement GA and NSGA-II for job shop scheduling problem in python| -
 -|-|-|-|-
 
 ## Data-Envelopment-Analysis
-:star: | Owner | Side Projects| Description | Website
+Owner | Side Projects| Language |Description | Website
 --- | --- | --- | --- | ---
-[![💫][DEA-shield]][DEA]|[@wurmen](https://github.com/wurmen) | [**DEA**](https://github.com/wurmen/DEA) |Data Envelopment Analysis 資料包絡分析 | 
+[wurmen] | [**DEA**](https://github.com/wurmen/DEA) |Python |Data Envelopment Analysis 資料包絡分析 | 
 -|-|-|-|-
 
 
-## R-for-Data-Science
-:star: | Owner | Side Projects| Description | Website
+## Data-Science
+Owner | Side Projects| Language |Description | Website
 --- | --- | --- | --- | ---
-[![💫][R-Notes-shield]][R-Notes]| [@skydome20](https://github.com/skydome20) | [**R-Notes**](https://github.com/skydome20/R-Notes) | Notes for using R language to do data mining and machine learning | [:triangular_flag_on_post:](http://rpubs.com/skydome20/Table)
-[![💫][crawler_CIA_CREST-shield]][crawler_CIA_CREST]| [@skydome20](https://github.com/skydome20) | [**crawler_CIA_CREST**](https://github.com/skydome20/crawler_CIA_CREST) | R-crawler for CIA website (CREST) | -
-[![💫][R_programming-shield]][R_programming]| [@allan811118](https://github.com/allan811118) | [**R_programming**](https://github.com/allan811118/R_programming) | R_programming for data mining | [:triangular_flag_on_post:](http://rpubs.com/allan811118/R_programming_00)
--| [@new393988911](https://github.com/new393988911) | - | R programming for 統計方法| [:triangular_flag_on_post:](http://rpubs.com/james_datacatcher)
--|-|-|-|-
-
-
-## Data-Science-in-Manufacturing
-:star: | Owner | Side Projects| Description | Website
---- | --- | --- | --- | ---
--| [@datasciencejeff](https://github.com/datasciencejeff) | - | 半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)  | [:triangular_flag_on_post:](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
--| [@new393988911](https://github.com/new393988911) | - | 缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)  | [:triangular_flag_on_post:](http://rpubs.com/james_datacatcher/svm)
+[skydome20] | [**R-Notes**](https://github.com/skydome20/R-Notes) | R | Notes for using R language to do data mining and machine learning | [:balloon:](http://rpubs.com/skydome20/Table)
+[skydome20] | [**crawler_CIA_CREST**](https://github.com/skydome20/crawler_CIA_CREST) | R |R-crawler for CIA website (CREST) | -
+[Allan](https://github.com/allan811118) | [**R_programming**](https://github.com/allan811118/R_programming) | R |R programming for 資料探勘 | [:balloon:](http://rpubs.com/allan811118/R_programming_00)
+[James](https://github.com/new393988911) | - | R |R programming for 統計方法| [:balloon:](http://rpubs.com/james_datacatcher)
+[Jeff](https://github.com/datasciencejeff) | - | R |半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)  | [:balloon:](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
+[James](https://github.com/new393988911) | - | R |缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)  | [:balloon:](http://rpubs.com/james_datacatcher/svm)
 -|-|-|-|-
 
 ## Metaheuristic-Algorithms
-:star: | Owner | Side Projects| Description | Website
+Owner | Side Projects| Language |Description | Website
 --- | --- | --- | --- | ---
-[![💫][IMS-shield]][IMS]|[@ChinYiTseng](https://github.com/ChinYiTseng)|[**IMS**](https://github.com/ChinYiTseng/IMS)|Metaheuristic algorithm programming tutorials using MATLAB|-
+[ChinYiTseng]|[**IMS**](https://github.com/ChinYiTseng/IMS)| Matlab |etaheuristic algorithm programming tutorials using MATLAB|-
 -|-|-|-|-
 
 
 ## Other
-:star: | Owner | Side Projects| Description | Website
+Owner | Side Projects| Language |Description | Website
 --- | --- | --- | --- | ---
 -|-|-|-|-
 
-[R-Notes]: https://github.com/skydome20/R-Notes
-[R-Notes-shield]: https://img.shields.io/github/stars/skydome20/R-Notes.svg?style=flat-square&label=Stars&maxAge=604800
-
-[crawler_CIA_CREST]: https://github.com/skydome20/crawler_CIA_CREST
-[crawler_CIA_CREST-shield]: https://img.shields.io/github/stars/skydome20/crawler_CIA_CREST.svg?style=flat-square&label=Stars&maxAge=604800
-
-[R_programming]: https://github.com/allan811118/R_programming
-[R_programming-shield]: https://img.shields.io/github/stars/allan811118/R_programming.svg?style=flat-square&label=Stars&maxAge=604800
 
 
-[Gurobi-Python]: https://github.com/wurmen/Gurobi-Python
-[Gurobi-Python-shield]: https://img.shields.io/github/stars/wurmen/Gurobi-Python.svg?style=flat-square&label=Stars&maxAge=604800
 
-[Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II]: https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II
-[Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II-shield]: https://img.shields.io/github/stars/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II.svg?style=flat-square&label=Stars&maxAge=604800
 
-[DEA]: https://github.com/wurmen/DEA
-[DEA-shield]: https://img.shields.io/github/stars/wurmen/DEA.svg?style=flat-square&label=Stars&maxAge=604800
 
-[IMS]: https://github.com/ChinYiTseng/IMS
-[IMS-shield]: https://img.shields.io/github/stars/ChinYiTseng/IMS.svg?style=flat-square&label=Stars&maxAge=604800
+
+
+[skydome20]: https://www.linkedin.com/in/skydome20
+[wurmen]: http://www.linkedin.com/in/chengmanwu
+
+
+
+
+
+
+
+[Allan]: https://www.linkedin.com/in/iamallanchou
+[Jeff]: https://www.linkedin.com/in/hungyuhsin/
+[James]:https://www.linkedin.com/in/iamjameswu/ 
+[ChinYiTseng]: https://www.linkedin.com/in/chin-yi-tseng/-398a10120/
+
