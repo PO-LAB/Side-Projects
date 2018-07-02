@@ -56,8 +56,8 @@ Owner | Projects| Language |Description | Website
 
 
 
-[@skydome20]: https://www.linkedin.com/in/skydome20
-[@wurmen]: http://www.linkedin.com/in/chengmanwu
+[@skydome20]: https://github.com/skydome20
+[@wurmen]: https://github.com/wurmen
 
 
 
