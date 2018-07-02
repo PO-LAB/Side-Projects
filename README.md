@@ -72,5 +72,5 @@ Owner | Side Projects| Language |Description | Website
 [@Allan]: https://www.linkedin.com/in/iamallanchou
 [@Jeff]: https://www.linkedin.com/in/hungyuhsin/
 [@James]:https://www.linkedin.com/in/iamjameswu/ 
-[@ChinYiTseng]: https://www.linkedin.com/in/chin-yi-tseng/-398a10120/
+[@ChinYiTseng]: linkedin.com/in/chin-yi-tseng-398a10120
 
