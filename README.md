@@ -33,13 +33,13 @@ A list of neat projects shared by POLab members
 ## Scheduling
 :star: | Owner | Side Projects| Description | Website
 --- | --- | --- | --- | ---
-[![💫][Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II-shield]][Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II]|[@wurmen](https://github.com/wurmen) | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) |Learning how to implement GA and NSGA-II for job shop scheduling problem in python| -
+[![💫][Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II-shield]][Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II]|[@wurmen](https://github.com/wurmen) | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) |Learning how to implement GA and NSGA-II for job shop scheduling problem in python| -
 
 
 ## Data-Envelopment-Analysis
 :star: | Owner | Side Projects| Description | Website
 --- | --- | --- | --- | ---
-[![💫][DEA-shield]][DEA]|[@wurmen](https://github.com/wurmen) | [**DEA**](DEA) |Data Envelopment Analysis 資料包絡分析 | -
+[![💫][DEA-shield]][DEA]|[@wurmen](https://github.com/wurmen) | [**DEA**](https://github.com/wurmen/DEA) |Data Envelopment Analysis 資料包絡分析 | -
 
 
 
