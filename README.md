@@ -12,26 +12,26 @@ A list of side projects shared by POLab members.
 
 
 ## Operation-Research
-Owner | Projects| Language |Description | Website
+Owner | Repo | Language |Description | Website
 :---: | --- | :---: | --- | :---:
 [@wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) | Learning how to use gurobi with python (in chinese)| -
 -|-|-|-|-
 
 ## Scheduling
-Owner | Projects| Language |Description | Website
+Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
 [@wurmen] | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) |![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) |Learning how to implement GA and NSGA-II for job shop scheduling problem in python| -
 -|-|-|-|-
 
 ## Data-Envelopment-Analysis
-Owner | Projects| Language |Description | Website
+Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
 [@wurmen] | [**DEA**](https://github.com/wurmen/DEA) |![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) |Data Envelopment Analysis 資料包絡分析 | -
 -|-|-|-|-
 
 
 ## Data-Science
-Owner | Projects| Language |Description | Website
+Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
 [@skydome20] | [**R-Notes**](https://github.com/skydome20/R-Notes) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png)| Notes for using R language to do data mining and machine learning | [:balloon:](http://rpubs.com/skydome20/Table)
 [@skydome20] | [**crawler_CIA_CREST**](https://github.com/skydome20/crawler_CIA_CREST) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |R-crawler for CIA website (CREST) | -
@@ -42,14 +42,14 @@ Owner | Projects| Language |Description | Website
 -|-|-|-|-
 
 ## Metaheuristic-Algorithms
-Owner | Projects| Language |Description | Website
+Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
 [@ChinYiTseng]|[**IMS**](https://github.com/ChinYiTseng/IMS)| ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/matlab.png) |Metaheuristic algorithm programming tutorials using MATLAB|-
 -|-|-|-|-
 
 
 ## Other
-Owner | Projects| Language |Description | Website
+Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
 -|-|-|-|-
 
