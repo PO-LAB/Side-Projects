@@ -1,4 +1,6 @@
 # Side-Projects (Cont.)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 A list of side projects shared by POLab members.
 
 ## Contents
