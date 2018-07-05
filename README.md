@@ -16,7 +16,7 @@ A list of side projects shared by POLab members.
 ## Operation-Research
 Owner | Repo | Language |Description | Website
 :---: | --- | :---: | --- | :---:
-[@wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) | Learning how to use Gurobi solver with python (in Mandarin) for optimization problems in operation research field (作業研究/運籌學)| -
+[@wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) | Learning how to use Gurobi solver with python for optimization problems in operation research field (作業研究/運籌學)| -
 -|-|-|-|-
 
 ## Scheduling
@@ -58,8 +58,8 @@ Owner | Repo| Language |Description | Website
 
 
 
-[@skydome20]: https://github.com/skydome20
-[@wurmen]: https://github.com/wurmen
+[@skydome20]: https://www.linkedin.com/in/skydome20/
+[@wurmen]: https://www.linkedin.com/in/chengmanwu/
 
 
 
