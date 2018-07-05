@@ -16,13 +16,13 @@ A list of side projects shared by POLab members.
 ## Operation-Research
 Owner | Repo | Language |Description | Website
 :---: | --- | :---: | --- | :---:
-[@wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) | Learning how to use Gurobi solver with python for optimization problems in operation research field (作業研究/運籌學)| -
+[@wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) | Learning how to use Gurobi solver with Python for optimization problems in operation research field (作業研究/運籌學)| -
 -|-|-|-|-
 
 ## Scheduling
 Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
-[@wurmen] | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) |![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) |Learning how to implement GA and NSGA-II for job shop scheduling problem in python| -
+[@wurmen] | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) |![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) |Learning how to implement GA and NSGA-II for job shop scheduling problem with Python| -
 -|-|-|-|-
 
 ## Data-Envelopment-Analysis
@@ -57,9 +57,15 @@ Owner | Repo| Language |Description | Website
 
 
 
-
-[@skydome20]: https://www.linkedin.com/in/skydome20/
 [@wurmen]: https://www.linkedin.com/in/chengmanwu/
+[@skydome20]: https://www.linkedin.com/in/skydome20/
+
+
+
+
+
+
+
 
 
 
