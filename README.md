@@ -16,7 +16,7 @@ A list of side projects shared by POLab members.
 ## Operation-Research
 Owner | Repo | Language |Description | Website
 :---: | --- | :---: | --- | :---:
-[@wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) | Learning how to use gurobi with python (in chinese)| -
+[@wurmen] | [**Gurobi-Python**](https://github.com/wurmen/Gurobi-Python) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) | Learning how to use Gurobi solver with python (in Mandarin) for optimization problems in operation research field (作業研究/運籌學)| -
 -|-|-|-|-
 
 ## Scheduling
@@ -35,12 +35,12 @@ Owner | Repo| Language |Description | Website
 ## Data-Science
 Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
-[@skydome20] | [**R-Notes**](https://github.com/skydome20/R-Notes) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png)| Notes for using R language to do data mining and machine learning | [:balloon:](http://rpubs.com/skydome20/Table)
-[@skydome20] | [**crawler_CIA_CREST**](https://github.com/skydome20/crawler_CIA_CREST) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |R-crawler for CIA website (CREST) | -
-[@Allan] | [**R_programming**](https://github.com/allan811118/R_programming) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |R programming for 資料探勘 | [:balloon:](http://rpubs.com/allan811118/R_programming_00)
+[@skydome20] | [**R-Notes**](https://github.com/skydome20/R-Notes) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png)| R language notes (in Mandarin)| [:balloon:](http://rpubs.com/skydome20/Table)
+[@skydome20] | [**crawler_CIA_CREST**](https://github.com/skydome20/crawler_CIA_CREST) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |R-crawler for parsing CIA website (CREST) | -
+[@Allan] | [**R_programming**](https://github.com/allan811118/R_programming) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |R programming for data mining | [:balloon:](http://rpubs.com/allan811118/R_programming_00)
 [@Jeff] | - | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |半導體製造資料分析(Data Analysis in Semiconductor Manufacturing)  | [:balloon:](http://rpubs.com/jeff_datascience/Semiconductor_Manufacturing)
-[@James] | - | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |R programming for 統計方法| [:balloon:](http://rpubs.com/james_datacatcher)
 [@James] | - | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |缺陷鋼板分類資料分析(Data Analysis in Faulty Steel Plates Classification)  | [:balloon:](http://rpubs.com/james_datacatcher/svm)
+[@James] | - | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/R.png) |R programming for statistical methods| [:balloon:](http://rpubs.com/james_datacatcher)
 -|-|-|-|-
 
 ## Metaheuristic-Algorithms
