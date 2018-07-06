@@ -55,6 +55,7 @@ Owner | Repo| Language |Description | Website
 ## Other
 Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
+[@skydome20] | [**RL-for-Gym**](https://github.com/skydome20/RL-for-Gym) | ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png)| RL for OpenAI Gym | 
 -|-|-|-|-
 
 
