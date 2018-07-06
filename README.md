@@ -22,8 +22,8 @@ Owner | Repo | Language |Description | Website
 ## Scheduling
 Owner | Repo| Language |Description | Website
 :---: | --- | :---: | --- | :---:
-[@wurmen] | [**Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm**](https://github.com/wurmen/Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm) |![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) |RL for flow shop scheduling| -
 [@wurmen] | [**Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II**](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II) |![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) |Learning how to implement GA and NSGA-II for job shop scheduling problem with Python| -
+[@wurmen] | [**Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm**](https://github.com/wurmen/Flow-Shop-Scheduling-Based-On-Reinforcement-Learning-Algorithm) |![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/python.png) |RL for flow shop scheduling| -
 [@ChinYiTseng]|[**IMS/GA_Application_Job_Shop_Problem**](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)| ![image](https://github.com/PO-LAB/Side-Projects/blob/master/logo/matlab.png) |Genetic Alforithm for Job Shop Scheduling Problem using MATLAB|-
 -|-|-|-|-
 
